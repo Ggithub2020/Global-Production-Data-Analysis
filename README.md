@@ -1,8 +1,8 @@
 # Global-Production-Data-Analysis
 # SQL Server Database, BI and Data Visualization Project With Agile Methods
  
- # Global crop production data is collected from all countries in the world each year. You’re tasked
-with data cleaning and building visualizations that can be published on the organization’s website in the
+# Global crop production data is collected from all countries in the world each year. 
+# The first task with data cleaning and building visualizations that can be published on the organization’s website in the
 future. 
 # You will use SQL Server as a DBMS and Power BI as a data visualization tool.
 
